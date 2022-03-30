@@ -4,20 +4,20 @@
         "nomeCompleto": "Administrador",
         "nomeUsuario": "admin",
         "ativo": "Sim",
-        "Papel": "ADMIN"
+        "papel": "ADMIN"
     },
     {
         "id": 2,
         "nomeCompleto": "Daniel",
         "nomeUsuario": "daniel",
         "ativo": "Sim",
-        "Papel": "USUARIO"
+        "papel": "USUARIO"
     },
     {
         "id": 3,
         "nomeCompleto": "Paulo",
         "nomeUsuario": "daricelio",
         "ativo": "Não",
-        "Papel": "USUARIO"
+        "papel": "USUARIO"
     }
 ]
