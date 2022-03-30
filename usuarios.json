@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "nomeCompleto": "Administrador",
+        "nomeUsuario": "admin",
+        "ativo": "Sim",
+        "Papel": "ADMIN"
+    },
+    {
+        "id": 2,
+        "nomeCompleto": "Daniel",
+        "nomeUsuario": "daniel",
+        "ativo": "Sim",
+        "Papel": "USUARIO"
+    },
+    {
+        "id": 3,
+        "nomeCompleto": "Paulo",
+        "nomeUsuario": "daricelio",
+        "ativo": "Não",
+        "Papel": "USUARIO"
+    }
+]
